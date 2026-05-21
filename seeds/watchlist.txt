@@ -1,0 +1,31 @@
+# Watchdog target list — one entry per line.
+# Entries can be: contract address, mint address, token symbol, or DexScreener query.
+
+# ── Ethereum ──────────────────────────────
+0x6982508145454ce325ddbe47a25d4ec3d2311933   # PEPE
+0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE   # SHIB
+0xdAC17F958D2ee523a2206206994597C13D831ec7   # USDT
+0x514910771AF9Ca656af840dff83E8264EcF986CA   # LINK
+
+# ── Base ──────────────────────────────────
+0x4ed4e862860bed51a9570b96d89af5e1b0efefed   # DEGEN
+0x532f27101965dd16442E59d40670FaF5eBB142E4   # BRETT
+
+# ── Arbitrum ──────────────────────────────
+0x912CE59144191C1204E64559FE8253a0e49E6548   # ARB
+
+# ── BSC ───────────────────────────────────
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c   # WBNB
+
+# ── Optimism ──────────────────────────────
+0x4200000000000000000000000000000000000042   # OP
+
+# ── Solana ────────────────────────────────
+EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v   # USDC-SOL
+DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263   # BONK
+
+# ── Free-text queries ─────────────────────
+WIF
+JUP
+TIA
+PYTH
